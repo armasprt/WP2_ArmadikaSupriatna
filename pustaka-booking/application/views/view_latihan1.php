@@ -9,7 +9,7 @@
         body {
             color: #090000;
             font-family: 'Poppins';
-            text-align:center;
+            text-align: center;
         }
     </style>
 </head>

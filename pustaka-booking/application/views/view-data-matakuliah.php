@@ -7,7 +7,8 @@
     <title>Form Data Mata Kuliah</title>
 </head>
 <body>
-<table>
+        <center>
+            <table>
                 <tr>
                     <th colspan="3">Tampil Data Mata Kuliah</th>
                 </tr>
@@ -41,5 +42,6 @@
                     </td>
                 </tr>
             </table>
+        </center>
 </body>
 </html>
