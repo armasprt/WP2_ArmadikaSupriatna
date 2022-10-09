@@ -14,6 +14,12 @@ class web extends CI_Controller{
         $this->load->view('view_footer', $data);
     }
 
+    public function service(){
+        $data['judul'] = "Halaman Depan";
+        $this->load->view('view_header', $data);
+        $this->load->view('view_service', $data);
+        $this->load->view('view_footer', $data);
+    }
     public function about(){
         $data['judul'] = "Halaman Depan";
         $this->load->view('view_header', $data);
